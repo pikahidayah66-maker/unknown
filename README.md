@@ -1,13 +1,28 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,2,110&height=180&section=header&text=FOR%20MONIK&fontSize=42&animation=scale&fontColor=ffffff&fontAlign=80" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,11,2,14&height=160&section=header&text=🎉%20HAPPY%20BIRTHDAY%20MONIK%20!%20🥳&fontSize=32&animation=rainbow&fontColor=ffffff" />
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKLL5I9v4c39XqG/giphy.gif" alt="celebration" width="100">
-  <br>
-  <h2>🎉🥳 Happy Birthday, Monik! 🎂✨</h2>
-  <h3>✨Semoga panjang umur dan bahagia selalu!</h3>
-  <br>
+
+<img src="https://media.giphy.com/media/26FPq84a0dJcOC84w/giphy.gif" width="220" />
+
+# ⚡✨ 💖 ✨⚡
+## **✨ Wish You All The Best, Monik! ✨**
+### 🎈 *Panjang umur, sehat selalu, dan makin sukses!* 🎂
+
+<br>
+
+<img src="https://media.giphy.com/media/l0HlRnAWXxn0MhOBK/giphy.gif" width="180" />
+
+<br>
+
+> **"Semoga hari-harimu selalu dipenuhi kebahagiaan dan tawa!"** 🌟
+
 </div>
+
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=notched&color=gradient&customColorList=14,2,0,11&height=100&section=footer&text=✨%20SPECIAL%20FOR%20YOU%20✨&fontSize=25&animation=fadeIn&fontColor=ffffff" />
+</h1>
+
 
 
