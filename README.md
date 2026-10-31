@@ -1,5 +1,4 @@
-### Halo, Saya Pika! 👋
-Selamat datang di profil GitHub saya! Saya sedang belajar membuat program dan menggunakan Git/GitHub.
-* 🔭 Saya sedang belajar tentang pengembangan web.
-* 🌱 Saat ini fokus mendalami dasar-dasar pemrograman.
-* 📫 Cara menghubungi saya: (bisa kamu isi email atau kontak di sini)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=Happy%20Birthday%20Pika!&fontSize=30&fontColor=ffffff" />
+</p>
+
